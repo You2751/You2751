@@ -7,7 +7,6 @@
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
 
 - 🔭 I am currently in my final year pursuing a degree in Computer Science at the Arab Academy for Science, Technology, and Maritime Transport (AAST). I am proud to mention that I hold the third rank in my college. My academic journey is complemented by a continuous commitment to problem-solving, demonstrated by my consistent engagement on platforms like LeetCode for more than 300 days last year.
 

@@ -10,4 +10,4 @@
 
 - 🔭 I am currently in my final year pursuing a degree in Computer Science at the Arab Academy for Science, Technology, and Maritime Transport (AAST). I am proud to mention that I hold the third rank in my college. My academic journey is complemented by a continuous commitment to problem-solving, demonstrated by my consistent engagement on platforms like LeetCode for more than 300 days last year.
 
-My current academic interests lie in the realms of Machine Learning and Data Engineering, with a specific focus on Generative Adversarial Networks (GANs) and time series analysis
+- My current academic interests lie in the realms of Machine Learning and Data Engineering, with a specific focus on Generative Adversarial Networks (GANs) and time series analysis
